@@ -22,6 +22,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to fix error laravel log could not be opened in append mode.](https://medium.com/@josephajibodu/how-to-fix-error-laravel-log-could-not-be-opened-in-append-mode-3140cb609019?source=rss-cd1fe37b4147------2)
+- [Laravel Tips: Mixed Content Error](https://medium.com/@josephajibodu/laravel-tips-mixed-content-error-ac32e4b79d4?source=rss-cd1fe37b4147------2)
+- [Laravel logs: How to get more from the filesystem logs](https://medium.com/@josephajibodu/laravel-logs-how-to-get-more-from-the-filesystem-logs-1bcd8d1f308f?source=rss-cd1fe37b4147------2)
+- [Little Disastrous Mistakes : Laravel](https://medium.com/@josephajibodu/little-disastrous-mistakes-laravel-70a29aa91e4d?source=rss-cd1fe37b4147------2)
+- [The best way to learn as a Self-Taught Programmer](https://medium.com/@josephajibodu/the-best-way-to-learn-as-a-self-taught-programmer-f462f3ab2ae1?source=rss-cd1fe37b4147------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
