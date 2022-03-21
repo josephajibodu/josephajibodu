@@ -1,5 +1,5 @@
 ![Header Image Joseph Ajibodu](https://github.com/cremirdevio/cremirdevio/blob/main/joseph-ajibodu-github-header-image.png)
-<h1 align="center">Hi 👋, I'm Joseph O. Ajibodu</h1>
+<!-- <h1 align="center">Hi 👋, I'm Joseph O. Ajibodu</h1> -->
 <h3 align="center">A proficient full stack software developer from Nigeria.</h3>
 
 <p align="left"> <a href="https://twitter.com/joseph_ajibodu" target="blank"><img src="https://img.shields.io/twitter/follow/joseph_ajibodu?logo=twitter&style=for-the-badge" alt="joseph_ajibodu" /></a> </p>
