@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Orderkart**
 
-- 🌱 I’m currently learning **Flutter, Swift and Spring Boot.**
+- 🌱 I’m currently learning **Swift** for iOS native mobile app development.
 
 - 👨‍💻 All of my projects are available at [https://www.cremir.org](https://www.cremir.org)
 
