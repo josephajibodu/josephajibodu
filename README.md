@@ -22,11 +22,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Productivity Tips: A sweeter way to view your Error Logs in Laravel](https://medium.com/@josephajibodu/productivity-tips-a-sweeter-way-to-view-your-error-logs-in-laravel-f9e5da89ab09?source=rss-cd1fe37b4147------2)
 - [React Navigation v6 with TypeScript: Nested Navigation &lpar;Part 2&rpar;](https://javascript.plainenglish.io/react-navigation-v6-with-typescript-nested-navigation-part-2-87844f643e37?source=rss-cd1fe37b4147------2)
 - [Basic Overview of Swift Language](https://medium.com/@josephajibodu/basic-overview-of-swift-language-9d473e210474?source=rss-cd1fe37b4147------2)
 - [Learn Swift in simple terms with Me](https://medium.com/@josephajibodu/learn-swift-in-simple-terms-with-me-f10a8e10c1ec?source=rss-cd1fe37b4147------2)
 - [React Navigation v6  with TypeScript](https://javascript.plainenglish.io/react-navigation-v6-with-typescript-5c9c065d45a5?source=rss-cd1fe37b4147------2)
-- [Laravel Basic API with Token Authentication](https://medium.com/@josephajibodu/laravel-basic-api-with-token-authentication-1ca435873b6f?source=rss-cd1fe37b4147------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
