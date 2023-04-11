@@ -22,11 +22,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Customize Laravel Fortify Authentication Email Templates](https://medium.com/@josephajibodu/how-to-customize-laravel-fortify-authentication-email-templates-21b6a315e279?source=rss-cd1fe37b4147------2)
 - [React Native Path Aliasing with @: Simplify Your Imports and Enhance Your Codebase](https://javascript.plainenglish.io/react-native-path-aliasing-with-simplify-your-imports-and-enhance-your-codebase-9897efee96a8?source=rss-cd1fe37b4147------2)
 - [SolidJS in Contrast to React: Could It Be Better?](https://javascript.plainenglish.io/solidjs-in-contrast-to-react-could-it-be-better-1aad3ad0f169?source=rss-cd1fe37b4147------2)
 - [Laravel Files and Permissions: the right way](https://medium.com/@josephajibodu/laravel-files-and-permissions-the-right-way-790e2919b2ed?source=rss-cd1fe37b4147------2)
 - [Productivity Tips: A sweeter way to view your Error Logs in Laravel](https://medium.com/@josephajibodu/productivity-tips-a-sweeter-way-to-view-your-error-logs-in-laravel-f9e5da89ab09?source=rss-cd1fe37b4147------2)
-- [React Navigation v6 with TypeScript: Nested Navigation &lpar;Part 2&rpar;](https://javascript.plainenglish.io/react-navigation-v6-with-typescript-nested-navigation-part-2-87844f643e37?source=rss-cd1fe37b4147------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
