@@ -22,8 +22,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The Road to Launch: Building a User-Friendly Digital Product Selling Platform —Progress and Plan](https://medium.com/@josephajibodu/the-road-to-launch-building-a-user-friendly-digital-product-selling-platform-progress-and-plan-6dccf971416f?source=rss-cd1fe37b4147------2)
-- [Unleashing Creativity: Crafting a Minimalistic Product Listing Website](https://medium.com/@josephajibodu/unleashing-creativity-crafting-a-minimalistic-product-listing-website-8e3aca4b6d62?source=rss-cd1fe37b4147------2)
+- [The Road to Launch: Building a User-Friendly Digital Product Selling Platform —Progress and Plan](https://javascript.plainenglish.io/the-road-to-launch-building-a-user-friendly-digital-product-selling-platform-progress-and-plan-6dccf971416f?source=rss-cd1fe37b4147------2)
+- [Unleashing Creativity: Crafting a Minimalistic Product Listing Website](https://javascript.plainenglish.io/unleashing-creativity-crafting-a-minimalistic-product-listing-website-8e3aca4b6d62?source=rss-cd1fe37b4147------2)
 - [How to Customize Laravel Fortify Authentication Email Templates](https://medium.com/@josephajibodu/how-to-customize-laravel-fortify-authentication-email-templates-21b6a315e279?source=rss-cd1fe37b4147------2)
 - [React Native Path Aliasing with @: Simplify Your Imports and Enhance Your Codebase](https://javascript.plainenglish.io/react-native-path-aliasing-with-simplify-your-imports-and-enhance-your-codebase-9897efee96a8?source=rss-cd1fe37b4147------2)
 - [SolidJS in Contrast to React: Could It Be Better?](https://javascript.plainenglish.io/solidjs-in-contrast-to-react-could-it-be-better-1aad3ad0f169?source=rss-cd1fe37b4147------2)
