@@ -22,11 +22,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering React useState: Avoiding Common Pitfalls](https://javascript.plainenglish.io/mastering-react-usestate-avoiding-common-pitfalls-ef574e933c4f?source=rss-cd1fe37b4147------2)
 - [The Road to Launch: Building a User-Friendly Digital Product Selling Platform —Progress and Plan](https://venture.circuit.ooo/the-road-to-launch-building-a-user-friendly-digital-product-selling-platform-progress-and-plan-6dccf971416f?source=rss-cd1fe37b4147------2)
 - [Unleashing Creativity: Crafting a Minimalistic Product Listing Website](https://venture.circuit.ooo/unleashing-creativity-crafting-a-minimalistic-product-listing-website-8e3aca4b6d62?source=rss-cd1fe37b4147------2)
 - [How to Customize Laravel Fortify Authentication Email Templates](https://medium.com/@josephajibodu/how-to-customize-laravel-fortify-authentication-email-templates-21b6a315e279?source=rss-cd1fe37b4147------2)
 - [React Native Path Aliasing with @: Simplify Your Imports and Enhance Your Codebase](https://javascript.plainenglish.io/react-native-path-aliasing-with-simplify-your-imports-and-enhance-your-codebase-9897efee96a8?source=rss-cd1fe37b4147------2)
-- [SolidJS in Contrast to React: Could It Be Better?](https://javascript.plainenglish.io/solidjs-in-contrast-to-react-could-it-be-better-1aad3ad0f169?source=rss-cd1fe37b4147------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
