@@ -1,6 +1,21 @@
-![Header Image Joseph Ajibodu](https://github.com/josephajibodu/josephajibodu/blob/main/joseph-ajibodu-github-header-image.png)
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndienVscW9rbmJoNGJnZ3BlenpsNDA4cmtpNXl1ODVqeXBvdmx3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vACLXgansDXwHzzI/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/josephajibodu">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://youtube.com/@josephajibodu?si=F0udGiiptQERoBoI">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/joseph_ajibodu">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <!-- <h1 align="center">Hi 👋, I'm Joseph O. Ajibodu</h1> -->
-<h3 align="center">A proficient full stack software developer from Nigeria.</h3>
+<h3 align="center">Full Stack Software Developer from Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/joseph_ajibodu" target="blank"><img src="https://img.shields.io/twitter/follow/joseph_ajibodu?logo=twitter&style=for-the-badge" alt="joseph_ajibodu" /></a> </p>
 
@@ -65,3 +80,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephajibodu&show_icons=true&locale=en" alt="josephajibodu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephajibodu&" alt="josephajibodu" /></p>
+
